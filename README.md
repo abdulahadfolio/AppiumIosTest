@@ -14,4 +14,14 @@
       pip install Appium-Python-Client
      
     
+  # Run Tests
+    1 Installing PyTest
+    
+    pip install -U pytest
+    
+    2 writing .py extension  file for test case
+    
+    3 in terminal execute this command pytest nameofyourfile.py
+    
+
 
