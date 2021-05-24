@@ -1,6 +1,6 @@
 # AppiumIosTest
 
-  # What is Appium?
+  ## What is Appium?
   
     * Appium Server is written in Node.js.
     
@@ -21,7 +21,7 @@
     desired capabilities. When a request session is created, the key-value pairs such as deviceName, platformName, appPackage, appActivity etc., have been 
     mentioned. Based on those mentioned key-value pairs, the Appium Server directs the client requests to the corresponding test frameworks.
 
-  # IOS setup
+  ## IOS setup
     - Pre-requisites
       
       1 Xcode installed on your macOS.
