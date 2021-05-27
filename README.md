@@ -1,31 +1,14 @@
 # AppiumIosTest
 
-  ## Python setup
+  ## Javascript Webdriver io setup
   
   ```
-  Pre-requisites
+ Follow these links for guidance
       
-      1 install python 
+      1 https://www.godaddy.com/engineering/2018/07/09/react-native-wdio/
         
-      2 install pip 
+      2 https://dev.to/fmo91/mobile-e2e-tests-using-webdriverio-and-appium-4071
   ```
-    
-   ``` https://stackoverflow.com/questions/62080750/install-pip-on-mac-failed
-    
-    1 Installing the Appium Python Client
-
-      pip install Appium-Python-Client
-      
-   ```
-    
-  ## Run Tests
-    1 Installing PyTest
-    
-    pip install -U pytest
-    
-    2 writing .py extension  file for test case
-    
-    3 in terminal execute this command pytest nameofyourfile.py
     
 
 
